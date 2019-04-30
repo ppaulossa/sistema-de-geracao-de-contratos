@@ -1,0 +1,10 @@
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\bin\Debug\Sistema Kumon.exe.config
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema Kumon.csproj.ResolveComReference.cache
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\bin\Debug\Sistema Kumon.exe
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\bin\Debug\Sistema Kumon.pdb
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema Kumon.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema_Kumon.Properties.Resources.resources
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema_Kumon.Tela_Contrato.resources
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema Kumon.csproj.GenerateResource.Cache
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema Kumon.exe
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Kumon\Sistema Kumon\obj\Debug\Sistema Kumon.pdb
